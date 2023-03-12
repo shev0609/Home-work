@@ -8,5 +8,5 @@ if (n_1 % 2 == 0)
 }
 else
 {
-     Console.Write($"The number {n_1} is odd");
+    Console.Write($"The number {n_1} is odd");
 }
