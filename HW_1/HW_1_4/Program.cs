@@ -5,6 +5,6 @@ int i = 2;
 
 while (i <= num)
 {
-    Console.Write($"{i} ");
+    Console.Write($"{i}");
     i += 2;
 }
